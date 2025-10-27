@@ -26,59 +26,61 @@ Hi, I'm Kyrre. I'm studying **Cybersecurity and Digital Infrastructure at NTNU**
 | [Mock company in Azure ) | Configured and created a mock work environment in MS AZURE| Cloud, Azure, VMware |
 
 --- 
-# CookBook
+## CookBook
 
 Full-stack web application designed as a collaborative cookbook. Users can browse, search, and filter recipes stored in a database and served through a GraphQL API.
 
 Short description: what it does, what you learned, and how to run it.
 
-## Tech Stack
+# Tech Stack
 
 HTML, CSS, TypeScript, React, MongoDB, GraphQL
 
-## Key Learnings
+# Key Learnings
 
 1. Designed and integrated a full-stack architecture connecting frontend and backend layers.
 2. Implemented CRUD operations and dynamic content rendering through GraphQL queries and mutations.
 3. Learned state management, component design, and responsive styling in React.
 
 ---
+  
 # PolPal
 
 A full-stack web app that helps users locate Vinmonopolet stores that fit their preferences (location, inventory, or type).
 
-## Tech Stack
+# Tech Stack
 HTML, CSS, TypeScript (React), python (backend)
 
-## Key Learnings
+# Key Learnings
 1. Practiced API integration and handling asynchronous data in React.
 2. Applied user-centered design principles for accessibility and usability.
 3. Gained experience with modular frontend structure and deployment.
-
+  
 ## Password Manager
 
 A Java-based password vault that securely stores and encrypts passwords locally, using cryptographic libraries and secure file handling.
 
-## Tech Stack
+# Tech Stack
 Java
 
-## Key Learnings
+# Key Learnings
 1. Implemented AES encryption and decryption for credential security.
 2. Managed file I/O operations with secure data persistence.
 3. Developed understanding of authentication, encryption, and software security fundamentals.
-
+---  
+  
 ## Cybersecurity for Kids
 
 An interactive educational website teaching children aged 9–12 about online safety through games, videos, and quizzes.
 
-## Tech Stack
+# Tech Stack
 HTML, CSS, JavaScript
 
-## Key Learnings
+# Key Learnings
 1. Designed interactive web content with a pedagogical focus.
 2. Collaborated in a cross-functional team for UI/UX, accessibility, and narrative design.
 3. Gained insight into communicating technical concepts to non-technical audiences.
-
+  
 ## Network Design Lab
 
 Networking Summary (CCNA1–CCNA3)
@@ -102,8 +104,8 @@ _Bachelor in Cybersecurity and Digital Infrastructure_
 ---
 
 ## 📫 Contact
-- **Email:** [Kyrrebellmathiesen@gmail.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- **Email:** [Email:](Kyrrebellmathiesen@gmail.com)
+- **LinkedIn:** [linkedIn:](https://www.linkedin.com/in/kyrre-bell-mathiesen-907052330/)
 
 ---
 

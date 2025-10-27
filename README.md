@@ -22,21 +22,21 @@ Hi, I'm Kyrre. I'm studying **Cybersecurity and Digital Infrastructure at NTNU**
 | [PolPal](https://git.ntnu.no/IT2810-H25/T14-Project-1.git) | Fullstack web development: App for finding the "vinmonopol" that fit your needs |HTML, CSS, TypeScript (React)|
 | [Password-maneger](https://github.com/KyrreBe/Password-manager.git) | Interactive password "vault" for storing and encrypting passwords | JAVA |
 | [Cybersecurity for Kids](https://github.com/sondrenodenesGammel/Cyberkid.git) | Educational website teaching 9–12-year-olds about internet safety | HTML, CSS, JS | Group Project
-| [Network Design Lab]) | Simulated multi-layer network setup (Cisco Packet Tracer) and physically | Networking |
-| [Mock company in Azure ) | Configured and created a mock work environment in MS AZURE| Cloud, Azure, VMware |
+| [Network Design Lab] | Simulated multi-layer network setup (Cisco Packet Tracer) and physically | Networking |
+| [Mock company in Azure ] | Configured and created a mock work environment in MS AZURE| Cloud, Azure, VMware |
 
 --- 
-## CookBook
+# CookBook
 
 Full-stack web application designed as a collaborative cookbook. Users can browse, search, and filter recipes stored in a database and served through a GraphQL API.
 
 Short description: what it does, what you learned, and how to run it.
 
-# Tech Stack
+## Tech Stack
 
 HTML, CSS, TypeScript, React, MongoDB, GraphQL
 
-# Key Learnings
+## Key Learnings
 
 1. Designed and integrated a full-stack architecture connecting frontend and backend layers.
 2. Implemented CRUD operations and dynamic content rendering through GraphQL queries and mutations.
@@ -48,40 +48,40 @@ HTML, CSS, TypeScript, React, MongoDB, GraphQL
 
 A full-stack web app that helps users locate Vinmonopolet stores that fit their preferences (location, inventory, or type).
 
-# Tech Stack
+## Tech Stack
 HTML, CSS, TypeScript (React), python (backend)
 
-# Key Learnings
+## Key Learnings
 1. Practiced API integration and handling asynchronous data in React.
 2. Applied user-centered design principles for accessibility and usability.
 3. Gained experience with modular frontend structure and deployment.
   
-## Password Manager
+# Password Manager
 
 A Java-based password vault that securely stores and encrypts passwords locally, using cryptographic libraries and secure file handling.
 
-# Tech Stack
+## Tech Stack
 Java
 
-# Key Learnings
+## Key Learnings
 1. Implemented AES encryption and decryption for credential security.
 2. Managed file I/O operations with secure data persistence.
 3. Developed understanding of authentication, encryption, and software security fundamentals.
 ---  
   
-## Cybersecurity for Kids
+# Cybersecurity for Kids
 
 An interactive educational website teaching children aged 9–12 about online safety through games, videos, and quizzes.
 
-# Tech Stack
+## Tech Stack
 HTML, CSS, JavaScript
 
-# Key Learnings
+## Key Learnings
 1. Designed interactive web content with a pedagogical focus.
 2. Collaborated in a cross-functional team for UI/UX, accessibility, and narrative design.
 3. Gained insight into communicating technical concepts to non-technical audiences.
   
-## Network Design Lab
+# Network Design Lab
 
 Networking Summary (CCNA1–CCNA3)
 
